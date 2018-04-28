@@ -1,0 +1,43 @@
+h1{
+    font-family:Arial;
+}
+h2,label{
+    font-family:sans-serif;
+}
+p{
+    font-family:helvetica;
+}
+body{
+    background-color:whitesmoke;
+}
+.tituloinfo{
+    position:fixed;
+    left: 85%;
+    font-size:40px;
+}
+
+.baixo{
+    margin-top:40%;
+}
+.centralizar{
+    text-align: center;
+}
+.centralizartable{
+    background-color:black;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+.titulotabela{
+    font-size:40px;
+    color: darkgray;
+}
+.link{
+    color: green;
+}
+
+
+/* Fonte:
+
+
+    */

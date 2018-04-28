@@ -1,0 +1,27 @@
+Segundo Desafio:
+    Para cada página criada você deve fazer certas alterações e criar classes especificas para tal.
+    Crie um arquivo css com nome style.css dentro de uma pasta chamado css e importa o css para as 3 páginas
+    Pagina 1(Formulário):
+        Deve centralizar todo o corpo da página utilizando css. Obs: Utilize um DIV para centralizar
+        Apague toda as linhas puladas (br/) e crie um espaçamento em css
+        crie um background para os paragravos com uma div e utilize Style invés de acessar o arquivo. Obs: Cor = aliceblue.
+        Mude a cor da font do título "infocorp" para lightskyblue
+    Pagina 2(Vídeo)
+        Nesta página você deve criar uma frase com o nome"InfoCorp" e criar uma classe para ela. Você deve fazer o posicionamento dela, deixar Fixo,deixar à extrema Direita e
+        Tamanho da fonte de 40px. 
+	Todo o texto (Fora o título de InfoCorp) deve estar centralizado
+        O título deve estar com cor diferente
+        Após o vídeo deve utilizar um DIV com margin para baixo para que possa fazer rolação da página
+    Página 3(Tabelas)
+        Todo o texto deve estar centralizado
+        Centralize a tabela com justify content
+        Mude a cor do título da Tabela
+        O fundo da tabela deve ser preto e suas cores Brancas
+
+    Geral:
+    Todos os títulos H1 devem usar a font Arial.
+    Todos os Parágrafos devem usar a font helvetica
+    todos os body devem usar a cor WhiteSmoke
+    todos os H2 e Label devem usar a font sans-serif
+    Todos os "Link" devem estar na cor Verde
+

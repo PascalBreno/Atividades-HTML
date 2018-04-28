@@ -1,0 +1,22 @@
+Primeiro Desafio de HTML:
+	Desenvolva 3 páginas em HTML:
+	Primeira Página:
+		A primeira deve contar um título com o nome"InfoCorp", um Subtítulo com seu nome, um parágrafo com uma frase seguida por outro parágrafo com uma frase qualquer.
+	Logo após, deve pular uma linha e ter um título para um formulário que você esteja criando, pule uma linha e crie um formulário com informações de "nome, cpf e telefone".
+	Apos criar os input com as três informações, pule duas linhas e crie um botão do tipo 'Submit' com o valor "Enviar".
+	
+	Segunda Página: 
+		Na segunda página você deve criar um título com o nome "Minha música favorita" e um subtítulo com o nome "Segunda página". Após isso, você deve procurar no youtube uma música
+	que você goste e deve incorporar o vídeo para a página em questão.
+
+	Terceira Página:
+		Nesta página você deve criar uma título com o nome "Minha família", e deve criar uma tabela relacionando sua familia com "Nome e Parentesco".
+		Obs. A tabela deve ter borda de 1
+
+	Conclusão:
+		Para finalizar, em cada página você deve criar uma página que carregue para as outras 2 páginas restantes. Ex: Da página do formulário você deve ter dois links para a sua música
+	e sua familía.
+
+	obs. Carregue o <meta charset="utf-8"/> em cada página.
+		A página 2 3 devem estar separada em uma pasta fora da página 1. Nomeie de "Paginas"
+
