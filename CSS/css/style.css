@@ -35,6 +35,24 @@ body{
 .link{
     color: green;
 }
+  .mg-0 {
+    margin: 0;
+  }
+  .mt-2 {
+    margin-top: 1em;
+  }
+  .container_periodo {
+    border: 1px solid #c6c8ca;
+    border-radius: 3px;
+    padding: 0.25em;
+  }
+  .form-control-sm {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+    height: 2em;
+  }
 
 
 /* Fonte:
